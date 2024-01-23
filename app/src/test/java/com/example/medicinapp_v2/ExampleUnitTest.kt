@@ -1,4 +1,4 @@
-package com.etelapasti.medicineapp
+package com.example.medicinapp_v2
 
 import org.junit.Test
 
